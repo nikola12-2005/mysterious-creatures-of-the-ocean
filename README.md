@@ -1,4 +1,5 @@
 # 2025 CSC1025 Group Project
+Glory (glory.raji2@mail.dcu.ie)
 
 Ayomikun Oyeniyi
 ayomikun.oyeniyi2@mail.dcu.ie
