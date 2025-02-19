@@ -1,6 +1,7 @@
 # 2025 CSC1025 Group Project
 
-
+Ayomikun Oyeniyi
+ayomikun.oyeniyi2@mail.dcu.ie
 
 ## Getting started
 
