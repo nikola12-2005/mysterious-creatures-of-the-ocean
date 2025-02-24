@@ -1,20 +1,32 @@
 # 2025 CSC1025 Group Project
-Glory (glory.raji2@mail.dcu.ie)
+
+Our group members:
+
+Glory Raji 
+glory.raji2@mail.dcu.ie
 
 Ayomikun Oyeniyi
 ayomikun.oyeniyi2@mail.dcu.ie
-- Nikola (nikola.stoleru2@mail.dcu.ie)
+
+Nikola Stoleru
+nikola.stoleru2@mail.dcu.ie
+
+Rebecca Mc Hugh
+rebecca.mchugh32@mail.dcu.ie
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Project description:
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Our project sets out to explore mysterious creatures of the ocean through our exciting website.
+This has been made using django.
+This has been created for CSC1025 Group Project 
+
 
 ## Add your files
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+#- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
+#- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
 
 ```
 cd existing_repo
