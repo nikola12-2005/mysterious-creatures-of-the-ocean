@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Deep-Sea Mystery Generator</title>
+      <link rel="stylesheet" href="style.css">
+      <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+      <script src="script.js" defer></script>
+   </head>
+   <body>
+      <nav class="navbar">
+         <ul>
+            <li><a href="index.html">Home</a></li>
+            <li class="dropdown">
+               <a href="creatures-of-the-deep.html">Creatures of the Deep</a>
+               <ul class="dropdown-menu">
+                  <li><a href="giant-squid.html">🦑 Giant Squid</a></li>
+                  <li><a href="anglerfish.html">🐟 Anglerfish</a></li>
+                  <li><a href="fangtooth-fish.html">🦷 Fangtooth Fish</a></li>
+               </ul>
+            </li>
+            <li><a href="strange-ocean-facts.html">Strange Ocean Facts</a></li>
+            <li><a href="myths-and-legends.html">Myths & Legends</a></li>
+            <li><a href="mystery-generator.html">Mystery Generator</a></li>
+            <li><a href="contact.html">Contact & Sources</a></li>
+         </ul>
+      </nav>
+      <header class="hero">
+         <h1>Deep-Sea Mystery Generator</h1>
+         <p>Enter a 3-character code to reveal a deep-sea mystery!</p>
+      </header>
+      <section class="generator-container">
+         <input type="text" id="mystery-code" maxlength="3" placeholder="Enter Code">
+         <button onclick="generateMystery()">Reveal Mystery</button>
+         <div id="mystery-output" class="hidden">
+            <img id="mystery-image" src="" alt="Mystery Image">
+            <p id="mystery-text"></p>
+         </div>
+      </section>
+      <footer>
+         <p>© Mysterious Ocean - Last Updated: <span id="date"></span></p>
+      </footer>
+   </body>
+</html>
