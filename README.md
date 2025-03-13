@@ -5,7 +5,7 @@
 Glory Raji 
 glory.raji2@mail.dcu.ie
 
-Ayomikun Oyeniyi
+Ayomikun Oyeniyi.
 ayomikun.oyeniyi2@mail.dcu.ie
 
 Nikola Stoleru
