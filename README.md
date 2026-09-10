@@ -1,29 +1,25 @@
-# 2025 CSC1025 Group Project
+# Mysterious Creatures of the Ocean
 
-##Our group members:
+A group project built as a multi-page website exploring strange and lesser known ocean creatures, with creature facts, an interactive random creature generator, and image galleries.
 
-Glory Raji
-glory.raji2@mail.dcu.ie
+## My role
 
-Ayomikun Oyeniyi
-ayomikun.oyeniyi2@mail.dcu.ie
+I led and coordinated the team, supervising progress and keeping everyone on track throughout the project. I was responsible for the overall design and user experience of the website, including choosing the colour scheme, fonts, layouts, imagery, and content used across the pages. I also contributed to both frontend and backend development, helping write and implement code across different parts of the website. In addition, I supported teammates with coding and implementation and helped ensure that the different parts of the project worked together correctly.
 
-Nikola Stoleru
-nikola.stoleru2@mail.dcu.ie
+## Pages
 
-Rebecca Mc Hugh
-rebecca.mchugh32@mail.dcu.ie
+- Home
+- Creatures of the Deep
+- Strange Ocean Facts
+- Mystery Generator
 
-##Project description:
+## Tech stack
 
-Our project delves into the ocean and its mysterious creatures. This project uses Django, HTML and CSS.
+HTML, CSS, JavaScript
 
-<!-- Getting started --!>
+## Team
 
-<!-- ``` --!>
-<!-- cd existing_repo --!>
-<!-- git remote add origin https://gitlab.computing.dcu.ie/jmckenna/2025-csc1025-group-project.git --!>
-<!-- git branch -M main --!>
-<!-- git push -uf origin main --!>
-<!-- ``` --!>
-
+- Glory Raji
+- Ayomikun Oyeniyi
+- Nikola Stoleru
+- Rebecca Mc Hugh
